@@ -1,0 +1,6 @@
+{
+  "name": "Halo / USD Halo",
+  "description": "A premium, fintech-style landing page for a reward-powered digital dollar stablecoin product.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
